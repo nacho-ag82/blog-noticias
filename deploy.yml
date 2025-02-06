@@ -1,0 +1,9 @@
+name: Despliegue del blog de noticias en github Page
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
